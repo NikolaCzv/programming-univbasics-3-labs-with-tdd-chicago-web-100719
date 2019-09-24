@@ -1,2 +1,2 @@
-first_number = Float
-second_number = Float
+first_number = 3.5
+second_number = 1
